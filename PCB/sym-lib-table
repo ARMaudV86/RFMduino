@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Carrier_Board_RFM)(type Legacy)(uri "C:/Users/arnau/OneDrive/Projets/Carte Arduino RFM/PCB/Carrier_Board_Arduino_RFM/Carrier_Board_RFM.lib")(options "")(descr ""))
+  (lib (name Carrier_Board_Arduino_RFM-rescue)(type Legacy)(uri ${KIPRJMOD}/Carrier_Board_Arduino_RFM-rescue.lib)(options "")(descr ""))
+)
